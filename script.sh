@@ -17,7 +17,7 @@ handle_error() {
 }
 
 echo '::group::🔗💀 Installing linkspector ... https://github.com/UmbrellaDocs/linkspector'
-npm install -g @umbrelladocs/linkspector@0.4.5
+npm install -g @t3mi/linkspector@0.1.0
 echo '🔗💀 linkspector version:'
 linkspector --version
 echo '::endgroup::'
